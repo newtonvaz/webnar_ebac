@@ -5,14 +5,20 @@ body{
     margin: 0;
 }
 
-#topo{
-    background: white;
-    padding: 10px 0 10px 0;
 
+header {
+    background-color: white;
+    padding: 10px 0 10px 0;
+    padding-top: 30px;
 }
+
 
 .logo{
     margin-left: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -50px;
 }
 
 h1, h2, p{
@@ -21,11 +27,17 @@ h1, h2, p{
 }
 
 hr{
+    margin-top: 50px;
     border-width: 1px;
     border-style: solid;
     border-color: red;
     margin-left: 100px;
     
+}
+
+.prof_img {
+    border-radius: 50%;
+    margin-left: 50px;
 }
 
 .btn, .btn-primary{
@@ -43,6 +55,51 @@ h3{
     font-size: 25px;
 }
 
+.btn-primary:hover {
+    background: #545454;
+    border-color:rgb(177, 177, 177);
+}
+
+
+footer {
+    margin-top: 50px;
+    background-color: white;
+    height: 170px;
+
+
+}
+
+.footer_3 {
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 100px;
+    margin-top: -20px;
+
+}
+
+#carouselId {
+    width: 900px;
+    height: 500PX;
+    margin-left: 300px;
+
+}
+
+.texto_principal {
+    text-align: right;
+    margin-right: 100px;
+}
+
+.texto_redes {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.logo_redes {
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 20px;
+}
 
 
 
