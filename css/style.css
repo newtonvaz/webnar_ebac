@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    color: #545454;
+    background: #ECE6E5;
+    margin: 0;
+}
+
+#topo{
+    background: white;
+    padding: 10px 0 10px 0;
+
+}
+
+.logo{
+    margin-left: 100px;
+}
+
+h1, h2, p{
+    margin-left: 100px;
+}
+
+hr{
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+}
+
+.btn {
+    margin-left: 100px;
+}
+
+
