@@ -69,12 +69,16 @@ footer {
 
 }
 
-.footer_3 {
+.footer_3{
     text-align: center;
     padding-top: 30px;
-    padding-right: 100px;
     margin-top: -20px;
 
+}
+
+.texto_footer {
+    text-align: center;
+    margin-right: 110px;
 }
 
 #carouselId {
@@ -101,6 +105,11 @@ footer {
     margin-top: 20px;
 }
 
+
+.container {
+    margin-left: 100px;
+
+}
 
 
 
